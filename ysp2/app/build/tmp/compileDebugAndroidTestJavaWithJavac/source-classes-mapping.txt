@@ -1,8 +1,0 @@
-com/example/ysp/test/BuildConfig.java
- com.example.ysp.test.BuildConfig
-com/example/ysp/ExampleInstrumentedTest.java
- com.example.ysp.ExampleInstrumentedTest
- com.example.ysp.ExampleInstrumentedTest$1
- com.example.ysp.ExampleInstrumentedTest$2
- com.example.ysp.ExampleInstrumentedTest$3
- com.example.ysp.ExampleInstrumentedTest$4
