@@ -1,0 +1,58 @@
+com/example/ysp/BuildConfig.java
+ com.example.ysp.BuildConfig
+com/example/ysp/dbconnect/dbInterface.java
+ com.example.ysp.dbconnect.dbInterface
+com/example/ysp/adapters/kategoriesAdapter.java
+ com.example.ysp.adapters.kategoriesAdapter
+ com.example.ysp.adapters.kategoriesAdapter$1
+ com.example.ysp.adapters.kategoriesAdapter$2
+ com.example.ysp.adapters.kategoriesAdapter$3
+ com.example.ysp.adapters.kategoriesAdapter$4
+ com.example.ysp.adapters.kategoriesAdapter$viewHolder
+com/example/ysp/contentActivity.java
+ com.example.ysp.contentActivity
+ com.example.ysp.contentActivity$1
+ com.example.ysp.contentActivity$2
+ com.example.ysp.contentActivity$3
+ com.example.ysp.contentActivity$3$1
+ com.example.ysp.contentActivity$PagerAdapter
+com/example/ysp/dbconnect/ApiUtils.java
+ com.example.ysp.dbconnect.ApiUtils
+com/example/ysp/LoginActivity.java
+ com.example.ysp.LoginActivity
+ com.example.ysp.LoginActivity$1
+com/example/ysp/classes/ReturnUser.java
+ com.example.ysp.classes.ReturnUser
+com/example/ysp/classes/Category.java
+ com.example.ysp.classes.Category
+com/example/ysp/MainActivity.java
+ com.example.ysp.MainActivity
+ com.example.ysp.MainActivity$1
+ com.example.ysp.MainActivity$2
+ com.example.ysp.MainActivity$2$1
+ com.example.ysp.MainActivity$3
+com/example/ysp/classes/ReturnCategory.java
+ com.example.ysp.classes.ReturnCategory
+com/example/ysp/dbconnect/RetrofitClient.java
+ com.example.ysp.dbconnect.RetrofitClient
+com/example/ysp/fragment/TodoFragment.java
+ com.example.ysp.fragment.TodoFragment
+ com.example.ysp.fragment.TodoFragment$1
+ com.example.ysp.fragment.TodoFragment$2
+ com.example.ysp.fragment.TodoFragment$3
+ com.example.ysp.fragment.TodoFragment$3$1
+ com.example.ysp.fragment.TodoFragment$3$1$1
+ com.example.ysp.fragment.TodoFragment$3$2
+com/example/ysp/classes/ReturnStory.java
+ com.example.ysp.classes.ReturnStory
+com/example/ysp/classes/User.java
+ com.example.ysp.classes.User
+com/example/ysp/classes/ReturnControl.java
+ com.example.ysp.classes.ReturnControl
+com/example/ysp/classes/Story.java
+ com.example.ysp.classes.Story
+com/example/ysp/adapters/storiesAdapter.java
+ com.example.ysp.adapters.storiesAdapter
+ com.example.ysp.adapters.storiesAdapter$1
+ com.example.ysp.adapters.storiesAdapter$2
+ com.example.ysp.adapters.storiesAdapter$viewHolder
